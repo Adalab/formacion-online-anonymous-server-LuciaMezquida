@@ -1,5 +1,16 @@
 /* COMMON */
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
 body {
+  height: 100vh;
+  background-image: url(../images/anonymous-server-background.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
 }
 .page {
 }
