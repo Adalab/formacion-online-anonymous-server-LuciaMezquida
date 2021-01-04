@@ -1,36 +1,44 @@
 /* COMMON */
-body {}
-.page {}
-
-
-
+body {
+}
+.page {
+}
 
 /* HEADER */
-.page__header {}
-.nav-trigger {}
-
-
-
+.page__header {
+  text-align: right;
+}
+.nav-trigger {
+}
 
 /* MENU */
-.nav {}
-.nav__items {}
-.nav__item {}
-.nav__link {}
-.nav-close {}
-
-
-
+.nav {
+}
+.nav__items {
+}
+.nav__item {
+  list-style-type: none;
+}
+.nav__link {
+}
+.nav-close {
+}
+.hidden {
+  display: none;
+}
 
 /* MAIN */
-.page__main {}
-.page__wrapper {}
-.page__main-title {}
-
-
-
+.page__main {
+}
+.page__wrapper {
+}
+.page__main-title {
+}
 
 /* FOOTER */
-.page__footer {}
-.page__footer {}
-.page__footer-copy {}
+.page__footer {
+}
+.page__footer {
+}
+.page__footer-copy {
+}
